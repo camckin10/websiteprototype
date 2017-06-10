@@ -1,0 +1,28 @@
+
+body{
+	background-image:url("images/janethevirgin.png");
+	background-repeat:repeat;
+}
+
+h1{
+	font-size: 50px;
+	color:#cc0066;
+} 
+
+h2{
+	font-family:TimesNewsRoman;
+	color:#ff80bf;
+}
+
+h3{
+	font-family:Helvetica;
+	color:#ff3399;
+}
+p{
+	font-family:Helvetica;
+	color:#ff99cc;
+}
+footer{
+	font-family:cursive;
+	color: #ffb3d9;
+}
